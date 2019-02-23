@@ -2,7 +2,7 @@
 public class App {
 	
 	public static void main(String[] args) {
-		System.out.println("Goodbye my friend!");
+		System.out.println("Hello my friend!");
 	}
 
 }
